@@ -3,7 +3,7 @@
 
 import cv2 # 利用opencv进行图像处理
 from hough import Hough_transform # 从霍夫变化类中引入霍夫变换函数
-from task1 import get_gradient_and_direction, NMS, double_threshold # 从任务一引入canny边缘检测函数
+from canny_edge import get_gradient_and_direction, NMS, double_threshold # 从任务一引入canny边缘检测函数
 
 if __name__ == '__main__':
     input_dir = './img/' # 输入图片文件夹
