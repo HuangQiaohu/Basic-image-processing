@@ -1,15 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Apr  6 10:33:26 2022
 
-软件包：opencv, numpy, os， math
-操作系统：Windows 10 专业版 20H2
-CPU：Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz   2.90 GHz
-GPU：AMD Radeon RX 5600 XT
-内存：2×8GB
-
-@author: 1851604-高若凹
-"""
 
 import os # 导入文件处理库
 import cv2 # 导入图像处理库
