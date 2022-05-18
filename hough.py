@@ -1,15 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Apr 29 15:26:36 2022
 
-软件包：opencv, numpy， math，operator
-操作系统：Windows 10 专业版 20H2
-CPU：Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz   2.90 GHz
-GPU：AMD Radeon RX 5600 XT
-内存：2×8GB
-
-@author: 1851604-高若凹
-"""
 
 import numpy as np # 矩阵计算库
 import math # 数学库
