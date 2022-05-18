@@ -1,15 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Apr 29 11:29:44 2022
 
-软件包：opencv, numpy， math，operator
-操作系统：Windows 10 专业版 20H2
-CPU：Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz   2.90 GHz
-GPU：AMD Radeon RX 5600 XT
-内存：2×8GB
-
-@author: 1851604-高若凹
-"""
 
 import cv2 # 利用opencv进行图像处理
 from hough import Hough_transform # 从霍夫变化类中引入霍夫变换函数
